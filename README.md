@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sinem Gençer 👋
+# Sinem Gençer
 ### ML Engineer | AI & Data Projects
 
 </div>
@@ -34,18 +34,23 @@ sinem@dev:~$ _
 
 ---
 
-## 🧠 About Me
+## About
 
-I work across the full ML lifecycle — from data pipelines and model
-training to deployment. I currently focus on **LLM-based applications**,
-**RAG architectures**, and **vector databases**, alongside classic
+I work across the full ML lifecycle, from data pipelines and model
+training to deployment. I currently focus on **production grade ML models**,
+**LLM-based applications**, **RAG architectures**,
+and **vector databases**, alongside classic
 ML workflows (preprocessing, model evaluation, hyperparameter tuning,
-interpretability). I also have a background as a **Python Instructor**,
-teaching applied data science and machine learning.
+interpretability). My background as a **Python Instructor**
+teaching applied data science and machine learning,
+as well as a freelance software developer providing
+my clients with front-end, back-end, ML model solutions
+both have improved my social and leadership skills
+considerably.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming:** Python, SQL (PostgreSQL, SQLite)
 
@@ -68,20 +73,20 @@ MLflow, GitHub Actions
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤖 Grant Support & Smart Recommendation System — *SoftITO & Istanbul Chamber of Commerce AI Program*
+### Grant Support & Smart Recommendation System — *SoftITO & Istanbul Chamber of Commerce AI Program*
 Team-lead on an end-to-end AI system that analyzes incentive and grant
 programs for SMEs and generates automated recommendations.
-- Built a RAG-based chatbot with a Qdrant vector database and embedding-based semantic search
-- Developed an LLM-based intent classification and query routing system
-- Performed document analysis and information extraction with NLP
-- Built backend REST API services with FastAPI, containerized with Docker & Compose (Kubernetes-ready)
-- Built a data pipeline covering scraping, processing, and standardization
-- Ensured KVKK & GDPR–compliant data handling and API security
-- Led requirements analysis, Agile task management, technical documentation, and stakeholder demos
+- Data pipeline covering **scraping, processing, and standardization**
+- **RAG**-based chatbot with a **Qdrant** vector database and embedding-based semantic search
+- **LLM**-based intent classification and query routing system
+- Document analysis and information extraction with **NLP**
+- Backend **REST API** services with **FastAPI**, containerized with **Docker** & Compose (Kubernetes-ready)
+- **KVKK & GDPR**–compliant data handling and API security
+- Led requirements analysis, **Agile** task management, technical documentation, and stakeholder demos
 
-### 💳 Credit Risk Assessment
+### Credit Risk Assessment
 End-to-end ML workflow on the Kaggle credit risk dataset.
 - Data preprocessing, EDA, feature engineering, and model selection
 - Experiment tracking with **MLflow**, model serialized with **Pickle**
@@ -89,32 +94,32 @@ End-to-end ML workflow on the Kaggle credit risk dataset.
 - Endpoints validated via Swagger UI & Postman
 - CI automation with **GitHub Actions** for reproducibility
 
-### 🛒 AutoML E-Commerce Customer Churn Prediction
+### AutoML E-Commerce Customer Churn Prediction
 - Built a **LightGBM** model tuned with **Optuna**
 - Achieved **ROC-AUC: 0.93**
 
-### 🧠 Brain Tumor Classification (Computer Vision)
+### Brain Tumor Classification (Computer Vision)
 - Transfer learning model using **Swin Transformer** on MRI data (4 classes)
 - Fine-tuned layers and learning rates
 - Achieved weighted **F1-score: 0.928**
 
-### 🍎 Fruit Recognition (Image Classification)
+### Fruit Recognition (Image Classification)
 - Image classifier built with **TensorFlow & AutoKeras**
 - Full preprocessing, inference, and evaluation pipeline with error analysis
 
-### 💬 Sentiment Analysis on Social Media
+### Sentiment Analysis on Social Media
 - Collected & cleaned social media data, filtered bot-generated content
 - Analyzed and visualized sentiment trends for brand mentions
 
-### 🏦 Bank Client Purchase Prediction
+### Bank Client Purchase Prediction
 - Decision Tree model predicting service purchases from behavioral data
 
-### 🌍 Population Growth Analysis
+### Population Growth Analysis
 - Statistical analysis and visualization of global population trends
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Python Instructor — Algorithmics, Mindset Institute** *(2023 – 2026)*
 - Developed a curriculum for 200+ students; taught Python, data science, and ML
@@ -125,7 +130,7 @@ End-to-end ML workflow on the Kaggle credit risk dataset.
 
 ---
 
-## 📜 Certificates & Courses
+## Certificates & Courses
 
 - **Kaggle:** Introduction to Machine Learning, Pandas
 - **Coursera:** Python for Data Visualization (Matplotlib & Seaborn), Supervised Machine Learning
@@ -135,31 +140,38 @@ End-to-end ML workflow on the Kaggle credit risk dataset.
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. Computer Engineering (English)** — Celal Bayar University *(2020 – 2024)*
 GPA: 3.14 / 4.00 — Coursework in computer science, statistics, mathematics, and algorithms
 
 ---
 
-## 🗣️ Languages & Exams
+## Languages & Exams
 
-- 🇹🇷 Turkish — Native Speaker
-- 🇬🇧 English — C2 (IELTS Academic: **8.5**, YDS: **92.5**)
-- ALES: **88**
+- 🇹🇷 Turkish: Native Speaker
+- 🇬🇧 English: C2
 
 ---
 
-## 🎯 Goals
+## Exams
+- ALES: **88**
+- IELTS Academic: **8.5**
+- YDS: **92.5**
+  
+---
+
+## Goals
 
 - Build production-ready, scalable ML & LLM systems
-- Work on real-world AI problems end-to-end — from data to deployment
+- Work on ETL & ELT pipelines
+- Work on real-world AI problems end-to-end, from data to deployment
 - Grow into Machine Learning / AI Engineering roles globally
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by — feel free to connect!*
+*Thanks for stopping by, feel free to connect!*
 
 </div>
