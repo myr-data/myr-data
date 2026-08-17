@@ -24,10 +24,10 @@ sinem@dev:~$ cat contact.txt
 > 📧  sgencer.contact@gmail.com
 > 🔗  linkedin.com/in/sinem-gencer
 > 💻  github.com/myr-data
-> 📍  Turkey
+> 📍  Turkey, İstanbul
 
 sinem@dev:~$ echo $STATUS
-> Open to ML / AI Engineering roles
+> Tricking rocks into thinking
 
 sinem@dev:~$ _
 ```
